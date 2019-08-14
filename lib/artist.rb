@@ -2,7 +2,7 @@ require 'pry'
 class Artist 
   attr_accessor :artist,:author
   
-  def initialize(artist,author)
+  def initialize(name,author)
     @artist = artist
     @author = author
    
