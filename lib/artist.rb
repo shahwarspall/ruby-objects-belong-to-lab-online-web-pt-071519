@@ -8,7 +8,7 @@ class Post
    
   end 
   
-  def artist
+  def Post
     @name
   end
   
