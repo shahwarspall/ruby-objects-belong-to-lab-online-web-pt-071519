@@ -8,4 +8,8 @@ class Artist
    
   end 
   
+  def artist
+    @name
+  end
+  
 end
