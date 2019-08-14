@@ -1,5 +1,5 @@
 require 'pry'
-class Artist s
+class Artists
   attr_accessor :name
   
   def initialize(name)
