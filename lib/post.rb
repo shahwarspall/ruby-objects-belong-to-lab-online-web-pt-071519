@@ -1,4 +1,2 @@
-def initialize(title)
-  @title = tile 
-  
-end
+class Post 
+  attr_accessor
