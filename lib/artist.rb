@@ -5,7 +5,7 @@ class Artist
   def initialize(artist,author)
     @artist = artist
     @author = author
-    blinding.pry
+   
   end 
   
 end
