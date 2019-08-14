@@ -1,4 +1,4 @@
 class Artist 
-  a
+  attr_accessor
   
   def 
